@@ -212,3 +212,8 @@ footer {
 .footer__link {
     padding: 0 16px;
 }
+
+span {
+    font-size: 24px;
+    font-weight: 700;
+}
